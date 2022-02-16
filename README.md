@@ -9,9 +9,3 @@ PARTE 2: Retirar as informações dos CÓDIGOS DE NEGOCIAÇÃO (Ticker) dos arqu
 PARTE 3: Com o DataFrame de Tickers criado, iremos utilizar a biblioteca Yahoo Finance para extrair o Preço de Fechamento das ações no mercado à vista.
 
 Vídeo disponível em: https://youtu.be/6vITe0ryc6U
-
-00:00 Descrição do Projeto
-05:14 Download BVBG28
-23:31 Manipulando XML BVBG28
-31:21 Explicando Funcoes Lambda
-42:35 Utilizando Yahoo Finance
